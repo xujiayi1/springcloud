@@ -16,6 +16,5 @@ feign:
       default:
         connectTimeout: 4000
         readTimeout: 4000
-env: default
-branch: master
+
  
